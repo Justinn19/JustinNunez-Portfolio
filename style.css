@@ -16,3 +16,20 @@ body{
 	background-color: #ADD8E6;
   
 }
+
+a:hover {
+	transform: scale(1.15);	
+	transition: transform .2s;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.topnav {
+  background-color: rgb(53, 52, 58);
+  overflow: hidden;
+}
+
+img{
+	border-radius: 4px;
+}
+
