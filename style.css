@@ -6,15 +6,15 @@ html, body {
 img {
   margin: 8px;
   height: 200px;
-
+	border-radius: 4px;
+	
 }
 
 body{
-	font-family: 'Lalezar', cursive;
-	font-size: 17px;
-
+	font-family: 'Capriola';
+	font-size: 14px;
 	background-color: #ADD8E6;
-  
+	
 }
 
 a:hover {
@@ -22,14 +22,18 @@ a:hover {
 	transition: transform .2s;
   background-color: transparent;
   text-decoration: underline;
+	
 }
 
 .topnav {
   background-color: rgb(53, 52, 58);
   overflow: hidden;
+	height: 23px;
+	
 }
 
-img{
-	border-radius: 4px;
+.about {
+	width: 600px;
+	
 }
 
